@@ -1,0 +1,16 @@
+source,target,value,period
+Supplier A,Electronics,251,Q1-2025
+Supplier A,Clothing,142,Q1-2025
+Supplier A,Food,64,Q1-2025
+Supplier B,Electronics,121,Q1-2025
+Supplier B,Clothing,110,Q1-2025
+Supplier B,Food,70,Q1-2025
+Supplier C,Electronics,132,Q1-2025
+Supplier C,Clothing,136,Q1-2025
+Supplier C,Food,224,Q1-2025
+Electronics,Online,352,Q1-2025
+Electronics,Retail Store,151,Q1-2025
+Clothing,Online,135,Q1-2025
+Clothing,Retail Store,252,Q1-2025
+Food,Online,161,Q1-2025
+Food,Retail Store,196,Q1-2025
